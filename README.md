@@ -13,7 +13,7 @@ The Local Time WordPress plugin allows you to display the visitor's local time o
 
 ## Installation
 
-1. Download the plugin ZIP file from the [GitHub repository]([https://github.com/syllod/Local-Time-Date_wp-plugin]).
+1. Download the plugin ZIP file from the [GitHub repository](https://github.com/syllod/Local-Time-Date_wp-plugin).
 2. In your WordPress admin panel, go to "Plugins" -> "Add New".
 3. Click on the "Upload Plugin" button and select the ZIP file you downloaded.
 4. Click "Install Now" and then "Activate Plugin".
@@ -32,4 +32,4 @@ This plugin is licensed under the [GNU General Public License (GPL) v2 or later]
 
 ## Plugin URL
 
-[Local Time on GitHub]([https://github.com/syllod/Local-Time-Date_wp-plugin])
+[Local Time on GitHub](https://github.com/syllod/Local-Time-Date_wp-plugin)
