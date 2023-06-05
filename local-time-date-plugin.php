@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Local Time-Date
  * Plugin URL: https://github.com/syllod/Local-Time-Date_wp-plugin
- * Description: The Local Time-Date plugin for WordPress allows you to display the visitor's local time and date on posts and pages using shortcodes.
+ * Description: A plugin to display the visitor's local time and date on posts and pages using shortcodes.
  * Version: 1.0.0
  * Author: Sylvain L - Syllod
  * Author URI: https://github.com/syllod
